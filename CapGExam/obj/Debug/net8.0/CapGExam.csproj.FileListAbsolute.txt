@@ -1,0 +1,14 @@
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.AssemblyInfoInputs.cache
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.AssemblyInfo.cs
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.csproj.CoreCompileInputs.cache
+C:\Users\gudel\source\repos\CapGExam\CapGExam\bin\Debug\net8.0\CapGExam.exe
+C:\Users\gudel\source\repos\CapGExam\CapGExam\bin\Debug\net8.0\CapGExam.deps.json
+C:\Users\gudel\source\repos\CapGExam\CapGExam\bin\Debug\net8.0\CapGExam.runtimeconfig.json
+C:\Users\gudel\source\repos\CapGExam\CapGExam\bin\Debug\net8.0\CapGExam.dll
+C:\Users\gudel\source\repos\CapGExam\CapGExam\bin\Debug\net8.0\CapGExam.pdb
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.dll
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\refint\CapGExam.dll
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.pdb
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\CapGExam.genruntimeconfig.cache
+C:\Users\gudel\source\repos\CapGExam\CapGExam\obj\Debug\net8.0\ref\CapGExam.dll
